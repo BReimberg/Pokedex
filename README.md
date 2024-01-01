@@ -1,5 +1,5 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspRLSyvHT0T3zzqsaQbEfNrEOHf6w8IJDZw&usqp=CAU" width="50px">
-<h1>Projeto Pokédex</h1>
+<h1>Projeto Pokédex <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspRLSyvHT0T3zzqsaQbEfNrEOHf6w8IJDZw&usqp=CAU" width="50px"></h1>
+
 <h2>Objetivo</h2>
 Estudo da linguagem de programação <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
