@@ -18,7 +18,7 @@
 .water {
     background-color: #678FEE;
 }
-.eletric {
+.electric {
     background-color: #F7CF2E;
 }
 .ice {
@@ -33,7 +33,7 @@
 .poison {
     background-color: #A040A0;
 }
-.figthing {
+.fighting {
     background-color: #BF3029;
 }
 .dark {
@@ -57,6 +57,9 @@
 .fairy {
     background-color: #F9AEC7;
 }
+.psychic {
+    background-color: #FF568B
+}
 
 .pokemon {
     display: flex;
@@ -65,6 +68,7 @@
     padding: 1rem;
     border-radius: 1rem;
     color: #FFFFFF;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
 }
 
 .pokemon .number {
@@ -126,6 +130,7 @@
     border-radius: 1rem;
     color: #FFFFFF;
     font-size: 0.625rem;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.15);
 }
 
 @media screen and (min-width: 380px) {
