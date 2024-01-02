@@ -1,4 +1,4 @@
-<h1>Projeto Pokédex <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspRLSyvHT0T3zzqsaQbEfNrEOHf6w8IJDZw&usqp=CAU" width="50px"></h1>
+<h1>Projeto Pokédex <img src="./assets/img/pokedex-removebg-preview.png" width="50px"></h1>
 
 <h2>Objetivo</h2>
 Estudo da linguagem de programação <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -10,6 +10,7 @@ Objetos que contem múltiplos valores armazenados em uma lista. Um objeto array 
 tipo de valor, a diferença está em podermos acessar cada valor dentro da lista individualmente, e fazer super úteis e eficientes coisas com a lista, como laço através 
 da lista e fazer a mesma coisa para cada valor.
 </p> 
+
 <h3>Estruturas de repetição</h3>
 <p>
 Estrutura no qual permite ao programador executar um determinado bloco de código um determinado número de vezes, de acordo com sua necessidade ao escrever o script.
