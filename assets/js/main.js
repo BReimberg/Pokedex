@@ -32,6 +32,8 @@ loadMoreButton.addEventListener('click', () => {
     offset += limit
     loadPokemonItems(offset, limit)
 })
+
+  
 /*
 =======================================================================
 LIMITAR PARA PRIMEIRA GERAÇÃO DE POKÉMONS (regra de paginação):
